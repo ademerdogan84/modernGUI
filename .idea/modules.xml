@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AndroidApp/.idea/AndroidCalculator.iml" filepath="$PROJECT_DIR$/../AndroidApp/.idea/AndroidCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SecureLogin/.idea/SecureLogin.iml" filepath="$PROJECT_DIR$/../SecureLogin/.idea/SecureLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UdemyProject/.idea/UdemyProject.iml" filepath="$PROJECT_DIR$/../UdemyProject/.idea/UdemyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../beginnerProjects/.idea/beginnerProjects.iml" filepath="$PROJECT_DIR$/../beginnerProjects/.idea/beginnerProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modernGUI.iml" filepath="$PROJECT_DIR$/.idea/modernGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
